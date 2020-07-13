@@ -1,0 +1,29 @@
+{
+    "store.custom#landing": {
+        "blocks": [
+            "image#landingbanner", 
+            "search-result-layout.customQuery"
+        ] 
+    },
+    "search-result-layout.customQuery": {
+        "props": {
+            "querySchema": {
+                "orderByField": "DESC",
+                "hideUnavailableItems": true,
+                "maxItemsPerPage": 8,
+                "skusFilter": "FIRST_AVAILABLE",
+                "simulationBehavior": "skip"
+            }
+          }
+    },
+    "image#landingbanner": {
+        "props": {
+          "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Desktop.jpg?q=1",
+          "link": {
+            "url": "/small-appliances/coffee-makers"
+          } ,
+          "alt": "Coffee Makers Collection",
+          "maxWidth": "100%"
+        }
+    }
+}
