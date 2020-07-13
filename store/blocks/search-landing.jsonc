@@ -19,7 +19,7 @@
     "image#landingbanner": {
         "props": {
             "src": "https://myphoneup.com/wp-content/uploads/2019/01/Artboard-1-7.jpg",
-            "minWidth": 100
+            "maxWidth": 100
         }
     }
 }
