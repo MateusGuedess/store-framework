@@ -18,8 +18,8 @@
     },
     "image#landingbanner": {
         "props": {
-            "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Desktop.jpg?q=1",
-            "minxWidth": "100%"
+            "src": "https://myphoneup.com/wp-content/uploads/2019/01/Artboard-1-7.jpg",
+            "minWidth": 100
         }
     }
 }
